@@ -1,2 +1,4 @@
 # Code from Isherwood, Clifford, Schira, Roberts, &amp; Spehar (2021)
 Code from Isherwood, Clifford, Schira, Roberts, &amp; Spehar (2021) is located in this repository. Link to publication: https://doi.org/10.1016/j.visres.2021.01.001
+
+All the stimuli, data, and movies from this manuscript are located on the following OSF page: https://osf.io/8753w/
