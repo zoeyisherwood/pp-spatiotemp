@@ -30,7 +30,7 @@ function f = make_fractal_3D(xexpo,texpo,imsize,frames,contrast,aperture)
 %
 % if you use this code, please cite:
 % 
-% Isherwood, Z. J., Clifford, C. W., Schira, M. M., Roberts, M. M. & Spehar, B. (2021) 
+% Isherwood, Z. J., Clifford, C. W. G., Schira, M. M., Roberts, M. M. & Spehar, B. (2021) 
 %     Nice and slow: Measuring sensitivity and visual preference toward naturalistic stimuli 
 %     varying in their amplitude spectra in space and time. Vision Research 181, 47-60, 
 %     doi:10.1016/j.visres.2021.01.001.
