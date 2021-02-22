@@ -28,6 +28,15 @@ function f = make_fractal_3D(xexpo,texpo,imsize,frames,contrast,aperture)
 %
 % Code initially written by Colin Clifford. Edited by Zoey Isherwood.
 %
+% if you use this code, please cite:
+% 
+% Isherwood, Z. J., Clifford, C. W., Schira, M. M., Roberts, M. M. & Spehar, B. (2021) 
+%     Nice and slow: Measuring sensitivity and visual preference toward naturalistic stimuli 
+%     varying in their amplitude spectra in space and time. Vision Research 181, 47-60, 
+%     doi:10.1016/j.visres.2021.01.001.
+% 
+% log:
+% 
 % CC - 2.5.13 & 15.7.14 - modified from make_fractal_CC to give movie
 % rather than static image
 %
