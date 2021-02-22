@@ -12,6 +12,13 @@ function [output] = calc_temporalslope(input,saveFlag,plotFlag,plotDir,plotName)
 %   5) output.chosenCutOff
 %   6) output.maxPointsTested
 %
+% if you use this code, please cite:
+% 
+% Isherwood, Z. J., Clifford, C. W., Schira, M. M., Roberts, M. M. & Spehar, B. (2021) 
+%     Nice and slow: Measuring sensitivity and visual preference toward naturalistic stimuli 
+%     varying in their amplitude spectra in space and time. Vision Research 181, 47-60, 
+%     doi:10.1016/j.visres.2021.01.001.
+% 
 % Log:
 %
 % YYYYMMDD
@@ -25,7 +32,6 @@ function [output] = calc_temporalslope(input,saveFlag,plotFlag,plotDir,plotName)
 %
 % before fitting the data, outliers are removed if it's Cook's Distance >
 % n/4
-%
 %
 % To do for future versions:
 %
